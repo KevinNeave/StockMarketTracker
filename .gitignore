@@ -1,0 +1,15 @@
+# environment variables
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# editor settings
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
